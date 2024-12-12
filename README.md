@@ -38,8 +38,7 @@ Fitness Pro Gym is a modern, responsive website designed to showcase gym service
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repo/fitness-pro-gym.git
-   cd fitness-pro-gym
+   https://github.com/Abdul-Wasay85/Gym-Website.git
    ```
 
 2. **Open the Website**:
@@ -57,5 +56,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For queries or contributions, contact the project maintainer at [wasay7249\@gmail.com].
+For queries or contributions, contact the project maintainer at [[wasay7249@gmail.com](mailto\:wasay7249@gmail.com)].
 
